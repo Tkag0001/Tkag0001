@@ -1,7 +1,5 @@
 <p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="https://github.com/user-attachments/assets/1c969bd7-c559-4231-a506-776ac65cd0f6" /></a></p>
 
-<br />
-
 You can call me Tkag.
 
 **About me**
