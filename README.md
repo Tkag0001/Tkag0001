@@ -2,7 +2,7 @@
 
 You can call me Tkag.
 
-**About me**
+## About me 🧑
 
 - 🇻🇳 I'm from Vietnam.
 
@@ -12,12 +12,16 @@ You can call me Tkag.
 
 - ❤️ I love learning about data, machine learning, deep learning.
 
+
 <code><img height="20" alt="Python" src="https://github.com/user-attachments/assets/3506be61-f1cd-41e9-b513-49d4c920120b"></code>
 <code><img height="20" alt="Tensorflow" src="https://github.com/user-attachments/assets/a02bd777-4cef-47f8-961c-fbeeccb32743"></code>
 <code><img height="20" alt="Pytorch" src="https://github.com/user-attachments/assets/ca30c6c7-9b85-4367-ac30-e3f6f0010bfe"></code>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tkag0001&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Khang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkag0001&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
+
+## You can buy me a coffee here, and it'll make my whole day! Love you! ☕😊
+<img src="https://github.com/Tkag0001/Tkag0001/blob/main/imgs/uzc4uwus.png?raw=true" width="150px">
 
 ## You can contact with me by:
 <p>
